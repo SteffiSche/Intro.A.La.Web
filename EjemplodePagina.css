@@ -1,0 +1,32 @@
+html,body { padding: 0%; margin: 0%; font-family: Arial, Helvetica, sans-serif; }
+
+.logo { width: 150px; float: left; } 
+
+.barra { background-color: black; padding: 10px 20px;
+    height: 60px;
+}
+
+.botones { float: right;}
+
+.boton { margin-top: 15px; margin-right: 20px; border: 1px solid white; color: white; border-radius: 5px;
+    height: 25px;background-color: black;}
+
+
+    .link {  margin-top: 15px; 
+        margin-left: 10px;
+    float: left; display: inline; color: white; font-size: 20px; text-decoration: none; }
+
+    .portada { background-color: #dadbf1;
+    height: 30vh;
+    text-align: center; padding-top: 20px; }
+
+    .caja { border: 1px solid black;
+    margin: auto ;background-color: white; height: 30px; width: 400px;}
+
+    .caja input { border: none; float: left;}
+
+    .caja button { background-color: white; border: none;float: right;}
+
+    .bloquecito {background-color: blueviolet; width: 50px; height: 60px;}
+
+    .absolute { position: absolute;}
